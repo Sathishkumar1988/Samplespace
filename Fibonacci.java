@@ -12,6 +12,6 @@ class Fibonacci {
 //This main function invokes recursively printFibonacci function 
     public static void main(String args[]) {
         int N = 10; // Given number of terms
-        printFibonacci(N);
+        printFibonacci(N); //recursive function
     }
 }
